@@ -18,7 +18,7 @@ body {
 .header {
   display: flex;
   width: 90%;
-  margin: auto;
+  margin 20px auto;
   justify-content: space-between;
 }
 .nav-links {
